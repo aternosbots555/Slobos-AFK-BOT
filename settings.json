@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "MotherFucker",
+    "username": "Kyron",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "LasttHeartSmp.aternos.me",
-    "port": 36249,
+    "ip": "SMP.aternos.me",
+    "port": 48552,
     "version": "1.21.1"
   },
   "position": {
