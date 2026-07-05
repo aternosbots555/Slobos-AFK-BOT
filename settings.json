@@ -8,7 +8,7 @@
   "server": {
     "ip": "kyron_world.aternos.me",
     "port": 46843,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
