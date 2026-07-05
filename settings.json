@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kyron_world.aternos.me",
+    "ip": "kyron_world.aternos.me:46843",
     "port": 46843,
     "version": "1.21.11"
   },
